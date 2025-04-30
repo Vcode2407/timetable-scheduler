@@ -1,30 +1,11 @@
 # Timetable Scheduler
-
-A web application to manage schedules using Streamlit and Flask API with SQLite backend.
-
-## Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/vcode2407/timetable-scheduler.git
-   cd timetable-scheduler
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the Flask API:
-   ```bash
-   python app/api.py
-   ```
-4. Run the Streamlit app in another terminal:
-   ```bash
-   streamlit run app/main.py
-   ```
-5. Access the app at `http://localhost:8501`.
-
-## Features
-- Add, view, and delete schedules.
-- Provide feedback to improve the UI.
+A web application for scheduling timetables at VIT-AP University.
 
 ## Demo
 Access the live app at [https://timetable-scheduler.onrender.com](https://timetable-scheduler.onrender.com).
+
+## Installation
+- Clone the repository: `git clone https://github.com/Vcode2407/timetable-scheduler.git`
+- Install dependencies: `pip install -r requirements.txt`
+- Run Flask API: `python app/api.py`
+- Run Streamlit app: `streamlit run app/main.py`
