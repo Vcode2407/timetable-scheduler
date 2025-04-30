@@ -25,3 +25,6 @@ A web application to manage schedules using Streamlit and Flask API with SQLite 
 ## Features
 - Add, view, and delete schedules.
 - Provide feedback to improve the UI.
+
+## Demo
+Access the live app at [https://timetable-scheduler.onrender.com](https://timetable-scheduler.onrender.com).
